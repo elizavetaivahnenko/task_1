@@ -1,0 +1,57 @@
+.title {
+    text-align: center;
+    background-image: url(https://kyiv.comments.ua/img/publications/880x586/6_gJkI5fnpE4c61IetHZ-IhbG3PQ1POe.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    height: 600px;
+}
+
+.first {
+    padding: 150px 100px 0px;
+    margin-bottom: 0px;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5em;
+}
+
+.text_1 {
+    margin-top: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+.button {
+    border: 1px solid black;
+    width: 120px;
+    height: auto;
+    border-radius: 5px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 50px;
+    margin-bottom: 150px;
+}
+
+.text {
+    margin-top: 0px;
+    background-color: cornsilk;
+    height: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+    background-color: rgb(160, 224, 250);
+    padding-top: 20px;
+    font-style: italic;
+}
+
+.buttom_text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(244, 250, 166);
+    font-style: italic;
+}
